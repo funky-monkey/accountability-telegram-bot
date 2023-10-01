@@ -6,7 +6,7 @@ const configs = {
   /*
    DAILY_REPEATED_TASKS: ["finsh project 1","finish project 2"]
   */
-  DAILY_REPEATED_TASKS: [""],
+  DAILY_REPEATED_TASKS: ["Inchecken bij Fem om 8.00 in de ochtend", "Opstaan om 7.00 uur", "30 minuten workout gewichten, bodyweight of dumbels (thuis of in gym)", "10 minuten mediteren na opstaan", "Parttime werk vinden dat basis vaste lasten dekt"],
 
   // When you want to be greeted by the bot (to start your day)
   GREETING_TIME: {
