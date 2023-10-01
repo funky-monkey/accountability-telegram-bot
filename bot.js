@@ -55,7 +55,9 @@ function sendGreeting() {
   let now = new Date();
   let day = days[now.getDay()];
 
-  sendMessage(`Hello ${configs.MY_NAME}, Today is <u>${day} ${now.getDate()}\/${now.getMonth() + 1}\/${now.getFullYear()}</u>, I hope you get some good night sleep, so tell me, what are you going to work on today?
+  sendMessage(`Hello ${configs.MY_NAME}, Today is <u>${day} ${now.getDate()}\/${now.getMonth() + 1}\/${now.getFullYear()}</u>, I hope you got some good night sleep, so tell me, what are you going to work on today?
+
+  <strong>What is the alternative of not working on these things?</strong>
 
 You can add new tasks using the /add command
 
